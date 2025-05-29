@@ -21,7 +21,7 @@
 title: Sean's Personal Site
 email: xiang7241@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sean Shi's personal website, homepage for some projects
+  Sean Shi's personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "sesh9096.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
