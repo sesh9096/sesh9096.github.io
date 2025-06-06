@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /project/
+permalink: /projects/
 ---
 
 # Individual Projects
@@ -12,6 +12,8 @@ permalink: /project/
 Experiment in using the `ncurses` library to create some terminal games
 - Sudoku
 - 2048
+
+![sudoku](/images/ncgames.png)
 
 ## Wayland Widgets
 
@@ -53,8 +55,9 @@ Android App Written in Kotlin
 ## Grocery Shopper Robot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDbsR8DpBQw?si=ZHj0fOgQdZvw_l2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Final Project for CSCI3302
+Final Project for CSCI3302(Introduction to autonomous robotics)
 - leveraged python libraries including numpy, OpenCV and ikpy to program a robot to autonomously explore and retrieve desired items in a grocery store like environment.
+- pathfinding via RRT*
 - Adapted project requirements to schedules to ensure our project was completed on time.
 
 ## Tech Library
@@ -68,7 +71,7 @@ Final project for Software Dev Methods and Tools (CSCI 3308).
 An assessment of the feasibility of installing electric scooter charging stations on the CU Boulder campus.
 Semester-long project for Tech Comm and Design (WRTG 3035).
 
-[Electric Scooter charging station feasibility](/documents/electric_scooter_project.pdf)
+[Final Presentation pdf](/documents/electric_scooter_project.pdf)
 <object width="600" height="400" type="application/pdf" data="/documents/electric_scooter_project.pdf">
     <p>PDF cannot be displayed.</p>
 </object>
