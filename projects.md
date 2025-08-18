@@ -21,6 +21,12 @@ Experiment in using the `ncurses` library to create some terminal games
 
 An experiment in creating graphical widgets using Wayland written in zig
 # School Projects
+## Capstone Project: Sentiment Analysis and Monitoring For Coursera
+This project was completed for the capstone course of a BS in Computer Science.
+Our sponsor Coursera required us to create a solution for extracting messages from their slack channels and then processing messages using sentiment analysis to determine how courses are going.
+To accomplish this, we created a slack bot which continuously downloaded messages and sent them for processing and then storage.
+A separate process then created a web interface for graphical visualizations pictured below.
+![architecture](/images/architecture.png)
 
 ## Python Compiler
 [github link](https://github.com/csci4555-sp25/final-project-sean-sarah-ryan)
@@ -67,6 +73,12 @@ Final project for Software Dev Methods and Tools (CSCI 3308).
 - Facilitating cooperation through requesting feedback on code, delegating tasks, and organizing meetings through groupme resulting in our team of 6 people finishing the project on time.
 - Designing a website using Bootstrap, HTML, CSS, and JS to enhance user experience.
 
+## Analysis of Walkability in the United States
+Analyis in R of a dataset showing factors influencing walkability in the United States
+[analysis of walkability pdf](/documents/analysis_of_walkability.pdf)
+<object width="600" height="400" type="application/pdf" data="/documents/analysis_of_walkability.pdf">
+    <p>PDF cannot be displayed.</p>
+</object>
 ## Electric Scooter Charging Feasibility Review
 An assessment of the feasibility of installing electric scooter charging stations on the CU Boulder campus.
 Semester-long project for Tech Comm and Design (WRTG 3035).
@@ -75,4 +87,3 @@ Semester-long project for Tech Comm and Design (WRTG 3035).
 <object width="600" height="400" type="application/pdf" data="/documents/electric_scooter_project.pdf">
     <p>PDF cannot be displayed.</p>
 </object>
-

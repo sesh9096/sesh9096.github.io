@@ -11,5 +11,6 @@ I graduated from University of Colorado Boulder in 2025 with a Bachelors of Scie
 I speak Mandarin and English, and I come from Arvada, Colorado.
 My interests include Origami and Math, Linux and am seeking a job in software development or DevOps/Cloud Engineer.
 Have a look around if you are interested in any of my projects.
+## [Dotfiles](https://github.com/sesh9096/dotfiles)
 
-## [Dotfiles](https://codeberg.org/simflection/dotfiles)
+![profile picture](/images/headshot.jpg)
