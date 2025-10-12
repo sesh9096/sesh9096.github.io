@@ -19,7 +19,7 @@ Experiment in using the `ncurses` library to create some terminal games
 
 [github](https://www.github.com/sesh9096/wayland-widgets)
 
-An experiment in creating graphical widgets using Wayland written in zig
+An experiment in creating graphical widgets using wlr-layer-shell wayland protocols written in zig.
 # School Projects
 ## Capstone Project: Sentiment Analysis and Monitoring For Coursera
 This project was completed for the capstone course of a BS in Computer Science.
