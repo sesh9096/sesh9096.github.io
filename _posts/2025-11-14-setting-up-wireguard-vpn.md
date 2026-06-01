@@ -140,5 +140,5 @@ Then, we can use `iptables-save` to save the current firewall configuration and 
 Now I have a working wireguard vpn which was probably more hassle to set up than what it is worth especially since the server does not seem to be connected to a very fast internet connection.
 So, all in all, not particularly useful although I did learn quite a bit I didn't know about firewalls and which I am trying hard to forget.
 ## Resources:
-[Wireguard (via systemd-networkd)](https://elou.world/en/tutorial/wireguard)
-[Thomas Haller: WireGuard in NetworkManager]{https://blogs.gnome.org/thaller/2019/03/15/wireguard-in-networkmanager/}
+- [Wireguard (via systemd-networkd)](https://elou.world/en/tutorial/wireguard)
+- [Thomas Haller: WireGuard in NetworkManager](https://blogs.gnome.org/thaller/2019/03/15/wireguard-in-networkmanager/)
