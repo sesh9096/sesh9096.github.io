@@ -22,6 +22,8 @@ Experiment in using the `ncurses` library to create some terminal games
 An experiment in creating graphical widgets using wlr-layer-shell wayland protocols written in zig.
 # School Projects
 ## Capstone Project: Sentiment Analysis and Monitoring For Coursera
+[github](https://github.com/jeremySchur/MS-CS-Insights)
+
 This project was completed for the capstone course of a BS in Computer Science.
 Our sponsor Coursera required us to create a solution for extracting messages from their slack channels and then processing messages using sentiment analysis to determine how courses are going.
 To accomplish this, we created a slack bot which continuously downloaded messages and sent them for processing and then storage.
@@ -47,6 +49,8 @@ A separate process then created a web interface for graphical visualizations pic
 </object>
 
 ## Definote
+[github](https://github.com/sesh9096/ooad_semester_project)
+
 <img src="/images/definote.png" align="right" width=200px>
 Android App Written in Kotlin
 - Final project for Object Oriented Design and Analysis(CSCI4448)
@@ -59,6 +63,8 @@ Android App Written in Kotlin
 - Used Tools and Framesworks including Kotlin, Room (SQLite database wrapper), Jetpack Compose(UI Framework), and Material Design
 
 ## Grocery Shopper Robot
+[github](https://github.com/nipe1783/CSCI_3302_Final_Project)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDbsR8DpBQw?si=ZHj0fOgQdZvw_l2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Final Project for CSCI3302(Introduction to autonomous robotics)
@@ -67,6 +73,8 @@ Final Project for CSCI3302(Introduction to autonomous robotics)
 - Adapted project requirements to schedules to ensure our project was completed on time.
 
 ## Tech Library
+[github](https://github.com/benkohav/techLibrary)
+
 A complete website created with ejs in the frontend and node js and postgres in the backend.
 Final project for Software Dev Methods and Tools (CSCI 3308).
 - Employing NodeJS to create a web server to facilitate communication with our postgres database and allow users to search for items, add them to the cart, and check them out.
