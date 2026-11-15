@@ -38,6 +38,7 @@ nav_pages:
 - projects.md
 - about.md
 - doucuments/index.md
+- tricks.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
